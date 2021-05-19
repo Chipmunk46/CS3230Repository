@@ -1,8 +1,5 @@
-public class Hello {
-    private String getHello() {
-        return "Hello World";
-    }
+public class hello {
     public static void main(String[] args){
-        String string = getHello();
+        System.out.println("Hello, World!");
     }
 }
