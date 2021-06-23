@@ -1,3 +1,5 @@
+package com.github.AustinWagstaffWeber.CS3230Repo;
+
 import java.util.ArrayList;
 
 public class Math {

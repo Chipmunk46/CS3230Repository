@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-Main-Class: Hello
+com.github.AustinWagstaffWeber.CS3230Repo.Main-Class: Hello
