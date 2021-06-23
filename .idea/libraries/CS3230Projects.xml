@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CS3230Projects">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Main.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hello.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

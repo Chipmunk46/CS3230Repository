@@ -1,3 +1,4 @@
+package com.github.AustinWagstaffWeber.CS3230Repo;
 import java.util.Scanner;
 
 public class Main {
