@@ -44,7 +44,7 @@ public class CLI {
                 startInt();
                 break;
             case "exit":
-                System.out.println("Goodbye!");
+                System.out.println("Goodbye! ");
                 return false;
             default:
                 return true;
