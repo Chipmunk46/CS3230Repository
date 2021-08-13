@@ -57,6 +57,10 @@ public class GUIMath {
         }); //TODO
     }
 
+    public JPanel getRootPanel() {
+        return rootPanel;
+    }
+
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("CS3230 Project");
